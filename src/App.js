@@ -11,9 +11,9 @@ function App() {
       <Menu />
 
       <BannerMain 
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end"}
+        videoTitle={dadosIniciais.categorias[1].videos[2].titulo}
+        url={dadosIniciais.categorias[1].videos[2].url}
+        videoDescription={"How to approach problem-solving as a developer 🤔. Seven steps and strategies to solve software development challenges faster. "}
       />
 
       <Carousel 
